@@ -1,0 +1,5 @@
+# Exclude vendor libraries from linguist stats
+src/sqlite3.c linguist-vendored
+src/shell.c linguist-vendored
+src/sqlite3.h linguist-vendored
+src/sqlite3ext.h linguist-vendored
