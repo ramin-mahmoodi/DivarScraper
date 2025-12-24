@@ -2,7 +2,7 @@
 
 **DivarScraper** is a high-performance C++ desktop application designed to scrape, manage, and analyze advertisements from [Divar](https://divar.ir). Built with a modern Win32 integration and a custom Direct2D rendering engine, it providing a fluid, web-like experience with native speed.
 
-![Dashboard Preview](assets/1.png)
+![Dashboard Preview](assets/2.png)
 *Modern Dashboard with custom Direct2D Header and Real-time stats*
 
 ## ✨ Key Features
@@ -15,7 +15,7 @@
 - **CSV Export**: Easily export your collected data for further analysis in Excel or other tools.
 - **Optimized Binary**: Highly tuned build process resulting in a tiny 1.3MB standalone executable.
 
-![Login Screen](assets/2.png)
+![Login Screen](assets/1.png)
 *Secure Login flow with Direct2D rendered input fields*
 
 ## 🛠 Technical Stack
@@ -52,3 +52,4 @@
 ## ⚖️ License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
